@@ -1,4 +1,4 @@
 newGit
 ======
 
-My first GIT
+My first GIT ~ Hello World
